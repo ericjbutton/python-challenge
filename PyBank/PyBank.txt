@@ -1,6 +1,3 @@
-ericb@DESKTOP-2V9V3ME MINGW64 ~/OneDrive/Desktop/python-challenge (main)
-$ cd PyBank/
-
 ericb@DESKTOP-2V9V3ME MINGW64 ~/OneDrive/Desktop/python-challenge/PyBank (main)
 $ python main.py
 Financial Analysis
